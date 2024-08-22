@@ -14,3 +14,9 @@ int main()
 
 
 }
+/*OUTPUT
+enter the bit position to be set:5
+enter the bit position to be reset:4
+your number is:102
+your number is: 70
+*/
