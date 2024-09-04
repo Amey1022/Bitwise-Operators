@@ -34,3 +34,7 @@ One’s Complement	~	Changes binary digits 1 to 0 and 0 to 1
 int b = 3;  
 
 (~b); //returns -4  
+## Code
+Refer to attached files
+## Output 
+Refer to attached files
